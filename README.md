@@ -17,3 +17,6 @@ To run the script, follow these steps:
 2. Navigate to the project directory in your terminal.
 3. Install the required dependencies by running `pnpm install`.
 4. Run the script by executing `node index.js`.
+
+> !NOTE
+> This replaces the default trail texture.
