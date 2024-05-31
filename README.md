@@ -1,6 +1,6 @@
 # NoTrail-Standalone
 
-[This Node.js script removes the trail texture from the game Geometry Dash.](https://github.com/xytrux/NoTrail-Standalone)
+A tool to automatically remove your trail in Geometry Dash
 
 ## Prerequisites
 
