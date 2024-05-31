@@ -1,4 +1,4 @@
-# NoTrail-Standalone
+# Trail-Texture-Remover
 
 A tool to automatically remove your trail in Geometry Dash
 
