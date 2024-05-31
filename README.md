@@ -18,5 +18,17 @@ To run the script, follow these steps:
 3. Install the required dependencies by running `pnpm install`.
 4. Run the script by executing `node index.js`.
 
-> !NOTE
+> [!NOTE]
 > This replaces the default trail texture.
+
+## Getting old textures back
+> [!WARNING]
+> This will replace ALL textures in the game. If you have a texture pack, you'll need to reinstall it.
+
+To get the original trail back:
+
+1. Go to Steam
+2. Find Geometry Dash
+3. Go to Settings -> Properties
+4. Click Installed Files
+5. Verify integrity of game files
